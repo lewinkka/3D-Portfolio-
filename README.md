@@ -1,5 +1,5 @@
-# 3D-Portfolio-
-3D models &amp; visualisations 
+# 3D-Portfolio
+3D models &amp; visualizations 
 # Привіт, я Аня 👋
 🎨 3D Artist | 3Ds Max | V-Ray | Corona  
 💡 Роблю візуалізації меблів та інтер’єрів | моделю
