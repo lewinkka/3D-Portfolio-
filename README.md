@@ -10,3 +10,6 @@
 
 ## 🧰 Програми:
 3Ds Max | Photoshop | RizomUV | Marvelous Designer | Substance Painter
+
+## 🛜 Соцмережі:
+- [Linkedin] https://www.linkedin.com/in/annapaichuk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
